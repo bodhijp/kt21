@@ -1,9 +1,3 @@
----
-
-title: 21号（周六）京都行程计划
-
----
-
 # 21号（周六）京都行程计划
 
 * 早上10点**[保土ヶ谷駅]**集合
@@ -21,10 +15,9 @@ title: 21号（周六）京都行程计划
 ### 集合点
 
 * 车站西口
-* ![Alt text](hodo_west.jpg "Optional title")
 * 巴士停和出租车停之间
- * 橙色圆圈所示位置
-* ![Alt text](accp.jpg "Optional title")
+* 橙色圆圈所示位置
+* ![Alt text](http://kt21.bodhijp.org/accp1.jpg "Optional title")
 
 #### <a href="https://goo.gl/maps/oY6KUuzC6Nu">点击查看地图</a>
 
@@ -40,25 +33,22 @@ title: 21号（周六）京都行程计划
 * 距离 ：104千米
 * 耗时 : 1小时30分
 * 休息位置 ： 高速服务站[NEOPASA駿河湾沼津]
- * <a href="https://goo.gl/maps/dr3fWd8kQRy">点击查看地图</a>
+* <a href="https://goo.gl/maps/dr3fWd8kQRy">点击查看地图</a>
 * 其他活动： 便利店，WC
- 
 ### 第二段
 
 * 距离 ：129千米
 * 耗时 : 1小时35分
 * 休息位置 ： 高速服务站[NEOPASA浜松]
- * <a href="https://goo.gl/maps/3cNp7H8EwH62">点击查看地图</a>
-* 其他活动： 午餐，WC
- 
+* <a href="https://goo.gl/maps/3cNp7H8EwH62">点击查看地图</a>
+* 其他活动： **午餐**，WC
 ### 第三段
 
 * 距离 ：130千米
 * 耗时 : 1小时40分
 * 休息位置 ： 高速服务站[EXPASA御在所]
- * <a href="https://goo.gl/maps/WRPmZKsGcDp">点击查看地图</a>
+* <a href="https://goo.gl/maps/WRPmZKsGcDp">点击查看地图</a>
 * 其他活动： 便利店，WC
- 
 ### 第四段
 
 * 距离 ：100千米
@@ -75,3 +65,4 @@ title: 21号（周六）京都行程计划
 
 * 京都 ： 晚6点
 * 大阪 ： 晚8点
+
